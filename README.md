@@ -39,9 +39,21 @@ Cloudy : Cultural contents review data visualization program
 ![이미지 이름](./img/project.png)
 
 
-실행화면
+:heavy_check_mark:실행화면
 -----------
-홈 화면
-![이미지 이름](./img/main.png)
-검색 화면 
+:white_check_mark:홈 화면    
+![이미지 이름](./img/main.png)    
+:white_check_mark:검색 화면       
+![이미지 이름](./img/search.png)    
+:white_check_mark:검색 화면 - (예 : 겨울왕국 영화 검색 시)    
+![이미지 이름](./img/cloud.png)    
+:white_check_mark:기록 화면    
+![이미지 이름](./img/history.png)    
 
+
+:heavy_check_mark:실행방법
+--------------
+:large_blue_circle: crawling.py 파일을 모듈로 사용하여    
+:large_blue_circle: main.py 파일을 실행    
+:large_blue_diamond: fonts.json와 malgunbd.ttf 파일로 폰트 설정    
+:large_orange_diamond: test.db 파일로 sqlite3 이용    
