@@ -21,18 +21,6 @@ Cloudy : Cultural contents review data visualization program
 5. 워드 클라우드를 생성한다.
 6. 데이터베이스를 활용해서 검색 기록 확인 기능을 제공한다
 
-:heavy_check_mark:팀 업무 분장
---------------
-
-:woman:김가현     
-팀장. UI 디자인, 보고서 작성, 발표 스크립트/ppt 준비, Github 관리     
-:man:김동민     
-팀원. Tkinter을 활용하여 프로그램 UI 구현, UI와 코드 연결     
-:woman:김예경     
-팀원. 영화/서점/앱 웹 사이트 리뷰 크롤링, 워드 클라우드 생성 구현     
-:man:허정윤    
-팀원. Sqlite을 활용하여 데이터베이스 설계 및 구현, 일부 보고서 작성       
-
 
 :heavy_check_mark:시스템 구성도
 ------------
